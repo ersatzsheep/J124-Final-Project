@@ -45,7 +45,7 @@ Any trends found can be used to develop strategies to improve health outcomes in
 ## Data Analysis Process
 The first step of my analysis was to clean the data. After inspection, the data did not require much refining as it was mostly normalized. Because my scope of analysis did not require school names and this column of data exhibited significant inconsistencies, I created a [new spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=131514056) without it for my analysis. I also introduced five new variables: 1) pMMR, 2) pDTP, 3) pPolio, 4) pPBE, and 5) pPME. Details on column headers can be found [here](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=2141576536).
 
-The scope of my analysis sought to answer the following questions:
+### Scope of Analysis 
 1) What was the total exemption rate in 2000? In 2015? How did the two years compare?
 2) Which counties had the highest vaccination exemption rates in 2000? In 2015? 
 3) For public schools, what percentage of kindergarteners completed their MMR, DTP, and Polio vaccinations in 2000 and 2015? For private schools? How do they compare?
@@ -54,12 +54,12 @@ The scope of my analysis sought to answer the following questions:
 6) Which counties had the highest standard deviation in vaccination rates for MMR, DTP, and Polio in 2015?
 7) Which vaccine demonstrated the greatest standard deviation in vaccination rate across the state in 2015?
 
-Key assumptions for analysis:
+### Key Assumptions
 * All questions were answered solely using the data set mentioned above.
 * Vaccination rate is defined as the percentage of students vaccinated for each respective vaccine type from the total number of students in the school type, county, or year specified in the question.
 * Exemption rate is defined as the percentage of students with an exemption (PBE or PME) from the total number of students in the school type, county, or year specified in the question.
 
-Answers to my data analysis:
+### Analysis
 1) What was the total exemption rate in 2000? In 2015? How did the two years compare?
 
 First, I created a [pivot table](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=813051499) that summed up the total number of PBE and PME exemptions, and the number of reported kindergarten students in 2000 and 2015.
