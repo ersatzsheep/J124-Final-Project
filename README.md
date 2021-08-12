@@ -1,1 +1,3 @@
-# J124-Final-Project
+# Story Summary and Sourcing
+# Data Visualizations
+# Data Analysis Process
