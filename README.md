@@ -1,4 +1,4 @@
-# Nevada County's Barriers to Vaccination
+# Data-Driven Pitch: Nevada County's Barriers to Vaccination
 
 ## Story Summary
 
