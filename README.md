@@ -12,6 +12,17 @@ Are people hesitant to receive vaccinations? If so, why? Is there a deep-rooted 
 
 In this project, I analyzed [“California Kindergarten Immunization Rates”](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=InfantData.csv) sourced from the California Department of Public Health. My analysis focuses on [kindergarten immunization statistics](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=StudentData.csv) from 2000 to 2015. 
 
+#### Potential Interview Contacts
+1) Jill Blake, the Public Health Director of Nevada County
+	* Email: public.health@co.nevada.ca.us
+	* Phone Number: 530-265-1450 
+	* As the Public Health Director of Nevada County, I am assuming Blake has a lot of knowledge about the current and historical shortcomings in local vaccination efforts. Additionally, Blake can contextualize these trends in the overarching vaccination hesitancy problem that has received national attention due to the Covid-19 pandemic.
+2) Sharyn Turner, the Nevada County Superintendent of Schools Health Coordinator
+	* Email: sturner@nevco.org
+	* Phone Number: (530) 478-6400 ext. 2045
+	* Turner is the official contact for the Nevada County Public Health’s annual Back-to-School Immunization Clinic. I want to ask Turner about the school’s stance on current vaccination rates for kindergarteners and what outreach efforts are in progress to improve statistics. Turner is key in learning about the strengths and weaknesses in ongoing solutions.
+
+
 # Data Visualizations
 
 ## [Vaccination Exemption Rates in 2015](https://www.datawrapper.de/_/krQtn/)
