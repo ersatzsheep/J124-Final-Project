@@ -154,7 +154,7 @@ I copied the values of this table into a [new spreadsheet](https://docs.google.c
 
 7) Which vaccine demonstrated the greatest standard deviation in vaccination rate across the state in 2015?
 
-Using the spreadsheet in question 5 that detailed the vaccination rates for each vaccine type for each county in 2015, I calculated the [standard deviation](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=1591613893)across every county for each vaccine type. 
+Using the spreadsheet in question 5 that detailed the vaccination rates for each vaccine type for each county in 2015, I calculated the [standard deviation](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=1591613893) across every county for each vaccine type. 
 
 <img width="468" alt="7_1" src="https://user-images.githubusercontent.com/87747630/129158237-b7af4d89-f617-4f5a-b689-9b6361166b2f.png">
 
