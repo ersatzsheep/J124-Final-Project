@@ -1,6 +1,16 @@
-# Story Summary and Sourcing
+# Story and Sourcing
 
+##Summary
 In this project, I analyzed [“California Kindergarten Immunization Rates”](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=InfantData.csv) sourced from the California Department of Public Health. My analysis focuses on [kindergarten immunization statistics](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=StudentData.csv) from 2000 to 2015. 
+
+In summary, my data analysis identified Nevada, Trinity, and Mariposa as the counties with the highest vaccination exemption rates in 2015. Additionally, Trinity, and Nevada had the lowest vaccination rates for MMR, DTP, and Polio in 2015. Finally, Nevada was among the counties with the highest standard deviation in vaccination rates for MMR, DTP, and Polio in 2015. From these results, the recurrence of Nevada County emerges as a newsworthy lead.
+
+Nevada County is a point of interest due to its relatively lower vaccination rates, higher vaccination exemption rates, and higher standard deviation in vaccination rates based on immunization records for California kindergarteners in 2015. These identified trends lead me to believe that this county experiences significant barriers to vaccination. My investigation will involve identifying these barriers and outlining why they exist. 
+
+Are people hesitant to receive vaccinations? If so, why? Is there a deep-rooted historical rationale? Is it due to religious beliefs? Are there medical conditions that disproportionately affect this community that lead to increased medical exemptions? Or, are these trends due to deficits in physical access to vaccines? Are there limited nearby medical facilities? Are there monetary barriers that discourage vaccinations? These questions will be investigated by visiting Nevada County and interviewing locals. Recording anecdotes from those who have not completely vaccinated their kindergarteners is essential to contextualize the trends found in the data. After understanding the root of the problem, I want to compare Nevada county’s Covid vaccination rates to the rest of the state and nation to see if the same barriers have carried over to the pandemic in a time where being vaccinated could easily be the determining factor in a life or death situation.
+
+##Sourcing
+
 
 # Data Visualizations
 
