@@ -16,11 +16,11 @@ In this project, I analyzed [“California Kindergarten Immunization Rates”](h
 1) Jill Blake, the Public Health Director of Nevada County
 	* Email: public.health@co.nevada.ca.us
 	* Phone Number: 530-265-1450 
-	* As the Public Health Director of Nevada County, I am assuming Blake has a lot of knowledge about the current and historical shortcomings in local vaccination efforts. Additionally, Blake can contextualize these trends in the overarching vaccination hesitancy problem that has received national attention due to the Covid-19 pandemic.
+	* As the Public Health Director of Nevada County, Blake must have in-depth knowledge about the current and historical shortcomings in local vaccination efforts. Additionally, Blake can contextualize vaccination trends in the greater hesitancy problem that has received national attention due to the Covid-19 pandemic.
 2) Sharyn Turner, the Nevada County Superintendent of Schools Health Coordinator
 	* Email: sturner@nevco.org
 	* Phone Number: (530) 478-6400 ext. 2045
-	* Turner is the official contact for the Nevada County Public Health’s annual Back-to-School Immunization Clinic. I want to ask Turner about the school’s stance on current vaccination rates for kindergarteners and what outreach efforts are in progress to improve statistics. Turner is key in learning about the strengths and weaknesses in ongoing solutions.
+	* Turner is the official contact for the Nevada County Public Health’s annual Back-to-School Immunization Clinic. I want to ask Turner about the school’s stance on current vaccination rates for kindergarteners and what outreach efforts are in progress to improve statistics. Turner is key in learning about the strengths and weaknesses of ongoing solutions.
 
 ### Additional Sources
 1) [Nevada County’s 2019 Health Needs Assessment](https://www.mynevadacounty.com/DocumentCenter/View/27995/Nevada-County-CHA-2019-PDF?bidId=)
