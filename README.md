@@ -4,6 +4,11 @@ In this project, I analyzed [“California Kindergarten Immunization Rates”](h
 
 # Data Visualizations
 
+## [Kindergarten Vaccination Exemption Rates in 2015](https://www.datawrapper.de/_/krQtn/)
+![choropleth](https://user-images.githubusercontent.com/87747630/129159216-054c26a0-f851-4929-a83d-3b520c71c07f.png)
+
+## [Kindergarten Vaccination Exemption Rates from 2000-2015 in Mariposa, Nevada, and Trinity Counties](https://infogram.com/kindergarten-vaccination-exemption-rates-in-california-from-2000-2015-1h7g6k09wxmro2o)
+
 
 # Data Analysis Process
 The first step of my analysis was to clean the data. After inspection, the data did not require much refining as it was mostly normalized. Because my scope of analysis did not require school names and this column of data exhibited significant inconsistencies, I created a [new spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=131514056) without it for my analysis. I also introduced five new variables: 1) pMMR, 2) pDTP, 3) pPolio, 4) pPBE, and 5) pPME. Details on column headers can be found [here](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=2141576536).
