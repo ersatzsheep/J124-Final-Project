@@ -22,6 +22,14 @@ In this project, I analyzed [“California Kindergarten Immunization Rates”](h
 	* Phone Number: (530) 478-6400 ext. 2045
 	* Turner is the official contact for the Nevada County Public Health’s annual Back-to-School Immunization Clinic. I want to ask Turner about the school’s stance on current vaccination rates for kindergarteners and what outreach efforts are in progress to improve statistics. Turner is key in learning about the strengths and weaknesses in ongoing solutions.
 
+### Additional Sources
+1) [Nevada County’s 2019 Health Needs Assessment](https://www.mynevadacounty.com/DocumentCenter/View/27995/Nevada-County-CHA-2019-PDF?bidId=)
+	* This source provides statistics on the county’s self-assessed health needs.
+	* This information can be used to identify additional trends that contextualize the barriers residents are facing when it comes to early childhood immunizations for MMR, DTP, and Polio.
+Any trends found can be used to develop strategies to improve health outcomes in Nevada County in a solutions-based journalism piece. 
+2) [Covid-19 Case Rates and Vaccination Data](https://nevcounty.maps.arcgis.com/apps/dashboards/index.html#/14d4460858214b358dfa3fae4cf33458)
+	* This source provides the latest statistics posted by the county on Covid-19 transmission amidst increased vaccination efforts and the rising delta variant.
+	* This information can be compared to national vaccination and case rate data to outline and address the deficits in Nevada County amidst recent surges.
 
 # Data Visualizations
 
