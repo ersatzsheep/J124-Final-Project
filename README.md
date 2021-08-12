@@ -1,4 +1,4 @@
-# Story and Sourcing
+# Nevada County's Barriers to Vaccination
 
 ## Story Summary
 
@@ -12,7 +12,7 @@ Are people hesitant to receive vaccinations? If so, why? Is there a deep-rooted 
 
 In this project, I analyzed [“California Kindergarten Immunization Rates”](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=InfantData.csv) sourced from the California Department of Public Health. My analysis focuses on [kindergarten immunization statistics](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=StudentData.csv) from 2000 to 2015. 
 
-#### Potential Interview Contacts
+### Potential Interview Contacts
 1) Jill Blake, the Public Health Director of Nevada County
 	* Email: public.health@co.nevada.ca.us
 	* Phone Number: 530-265-1450 
@@ -33,10 +33,10 @@ Any trends found can be used to develop strategies to improve health outcomes in
 
 # Data Visualizations
 
-## [Vaccination Exemption Rates in 2015](https://www.datawrapper.de/_/krQtn/)
+## 1) [Vaccination Exemption Rates in 2015](https://www.datawrapper.de/_/krQtn/)
 ![choropleth](https://user-images.githubusercontent.com/87747630/129159216-054c26a0-f851-4929-a83d-3b520c71c07f.png)
 
-## [Vaccination Exemption Rates from 2000-2015 in Mariposa, Nevada, and Trinity Counties](https://infogram.com/kindergarten-vaccination-exemption-rates-in-california-from-2000-2015-1h7g6k09wxmro2o?live)
+## 2) [Vaccination Exemption Rates from 2000-2015 in Mariposa, Nevada, and Trinity Counties](https://infogram.com/kindergarten-vaccination-exemption-rates-in-california-from-2000-2015-1h7g6k09wxmro2o?live)
 
 <img width="639" alt="Screen Shot 2021-08-12 at 01 10 06" src="https://user-images.githubusercontent.com/87747630/129161834-c0aac4e4-3832-4172-806e-1e41907e8e7a.png">
 
