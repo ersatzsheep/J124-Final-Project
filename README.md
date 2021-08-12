@@ -4,10 +4,15 @@ In this project, I analyzed [“California Kindergarten Immunization Rates”](h
 
 # Data Visualizations
 
-## [Kindergarten Vaccination Exemption Rates in 2015](https://www.datawrapper.de/_/krQtn/)
+## [Vaccination Exemption Rates in 2015](https://www.datawrapper.de/_/krQtn/)
 ![choropleth](https://user-images.githubusercontent.com/87747630/129159216-054c26a0-f851-4929-a83d-3b520c71c07f.png)
 
-## [Kindergarten Vaccination Exemption Rates from 2000-2015 in Mariposa, Nevada, and Trinity Counties](https://infogram.com/kindergarten-vaccination-exemption-rates-in-california-from-2000-2015-1h7g6k09wxmro2o)
+## [Vaccination Exemption Rates from 2000-2015 in Mariposa, Nevada, and Trinity Counties](https://infogram.com/kindergarten-vaccination-exemption-rates-in-california-from-2000-2015-1h7g6k09wxmro2o)
+
+<img width="639" alt="Screen Shot 2021-08-12 at 01 10 06" src="https://user-images.githubusercontent.com/87747630/129161834-c0aac4e4-3832-4172-806e-1e41907e8e7a.png">
+
+<img width="625" alt="Screen Shot 2021-08-12 at 01 07 48" src="https://user-images.githubusercontent.com/87747630/129161521-5b17ddd1-79ab-43b5-9bbd-ac0ee441f9fb.png">
+
 
 
 # Data Analysis Process
