@@ -66,7 +66,7 @@ First, I created a [pivot table](https://docs.google.com/spreadsheets/d/11xsReMh
 
 <img width="468" alt="1_1" src="https://user-images.githubusercontent.com/87747630/129158206-7075e6a5-2b29-4b09-9d83-03329cc87b29.png">
 
-Then I copied the pivot table’s values into [another spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=280452227) and found the total number of exemptions in 2000 by summing the total number of PBE and PME exemptions. I determined the exemption rate by dividing the total number of exemptions by the total number of students and multiplying the resulting value by 100. 
+Then, I copied the pivot table’s values into [another spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=280452227) and found the total number of exemptions in 2000 by summing the total number of PBE and PME exemptions. I determined the exemption rate by dividing the total number of exemptions by the total number of students and multiplying the resulting value by 100. 
 
 <img width="468" alt="1_2" src="https://user-images.githubusercontent.com/87747630/129158207-3f6c3e9b-c6f1-4ad1-ac3a-93944a322669.png">
 
