@@ -17,4 +17,23 @@ The scope of my analysis sought to answer the following questions:
 6)	Which counties had the highest standard deviation in vaccination rates for MMR, DTP, and Polio in 2015?
 7)	Which vaccine demonstrated the greatest standard deviation in vaccination rate across the state in 2015?
 
+Key assumptions for analysis:
+* All questions were answered solely using the data set mentioned above.
+* Vaccination rate is defined as the percentage of students vaccinated for each respective vaccine type from the total number of students in the school type, county, or year specified in the question.
+* Exemption rate is defined as the percentage of students with an exemption (PBE or PME) from the total number of students in the school type, county, or year specified in the question.
+
+Answers to my data analysis:
+1)	What was the total exemption rate in 2000? In 2015? How did the two years compare?
+
+First, I created a pivot table that summed up the total number of PBE and PME exemptions, and the number of reported kindergarten students in 2000 and 2015.
+
+
+Then I copied the pivot table’s values into another spreadsheet and found the total number of exemptions in 2000 by summing the total number of PBE and PME exemptions. I determined the exemption rate by dividing the total number of exemptions by the total number of students and multiplying the resulting value by 100. 
+
+> The total exemption rates in 2000 and 2015 were 0.842% and 2.498% respectively. The total exemption rate increased by 1.656% from 2000 to 2015 with a notable increase in personal belief exemptions from inspection. 
+
+
+
+
+
 
