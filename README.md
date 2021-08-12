@@ -1,7 +1,6 @@
 # Story and Sourcing
 
-## Summary
-In this project, I analyzed [“California Kindergarten Immunization Rates”](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=InfantData.csv) sourced from the California Department of Public Health. My analysis focuses on [kindergarten immunization statistics](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=StudentData.csv) from 2000 to 2015. 
+## Story Summary
 
 In summary, my data analysis identified Nevada, Trinity, and Mariposa as the counties with the highest vaccination exemption rates in 2015. Additionally, Trinity, and Nevada had the lowest vaccination rates for MMR, DTP, and Polio in 2015. Finally, Nevada was among the counties with the highest standard deviation in vaccination rates for MMR, DTP, and Polio in 2015. From these results, the recurrence of Nevada County emerges as a newsworthy lead.
 
@@ -11,6 +10,7 @@ Are people hesitant to receive vaccinations? If so, why? Is there a deep-rooted 
 
 ## Sourcing
 
+In this project, I analyzed [“California Kindergarten Immunization Rates”](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=InfantData.csv) sourced from the California Department of Public Health. My analysis focuses on [kindergarten immunization statistics](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=StudentData.csv) from 2000 to 2015. 
 
 # Data Visualizations
 
