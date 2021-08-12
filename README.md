@@ -27,8 +27,11 @@ Answers to my data analysis:
 
 First, I created a [pivot table](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=813051499) that summed up the total number of PBE and PME exemptions, and the number of reported kindergarten students in 2000 and 2015.
 
+<img width="468" alt="1_1" src="https://user-images.githubusercontent.com/87747630/129158206-7075e6a5-2b29-4b09-9d83-03329cc87b29.png">
 
 Then I copied the pivot table’s values into [another spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=280452227) and found the total number of exemptions in 2000 by summing the total number of PBE and PME exemptions. I determined the exemption rate by dividing the total number of exemptions by the total number of students and multiplying the resulting value by 100. 
+
+<img width="468" alt="1_2" src="https://user-images.githubusercontent.com/87747630/129158207-3f6c3e9b-c6f1-4ad1-ac3a-93944a322669.png">
 
 > The total exemption rates in 2000 and 2015 were 0.842% and 2.498% respectively. The total exemption rate increased by 1.656% from 2000 to 2015 with a notable increase in personal belief exemptions from inspection. 
 
@@ -36,9 +39,15 @@ Then I copied the pivot table’s values into [another spreadsheet](https://docs
 
 I created a [pivot table](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=1539983966) that summed the total number of PBE and PME exemptions, and the number of reported kindergarten students for every county in California in 2000 and 2015.
 
+<img width="468" alt="2_1" src="https://user-images.githubusercontent.com/87747630/129158209-300daad4-734b-4a68-8162-11c3ed644589.png">
+
 I copied the values to a [new spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=322148175) and summed the total number of PBE and PME exemptions to get the total number of exemptions per county. Then, I calculated the percentage of  kindergarteners with exemptions for each county based on the total number of kindergarteners per county. Finally, I sorted the vaccination exemption rates in descending fashion to determine the counties with the highest rates. 
 
+<img width="468" alt="2_2" src="https://user-images.githubusercontent.com/87747630/129158211-bfd450dc-f3fd-4c5b-a4de-4c4c396f14d6.png">
+
 > In 2000, the counties with the highest exemption rates were Nevada, Trinity, and Modoc.
+
+<img width="468" alt="2_3" src="https://user-images.githubusercontent.com/87747630/129158212-66a4d07a-bf53-43b5-b23b-c872ede739a1.png">
 
 > In 2015, the counties with the highest exemption rates were Nevada, Trinity, and Mariposa. 
 
@@ -46,13 +55,19 @@ I copied the values to a [new spreadsheet](https://docs.google.com/spreadsheets/
 
 I used the same values from the [old spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=322148175) in question 2 and pasted it into a new spreadsheet. In this [new spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=639338057), I deleted unnecessary columns and subtracted the exemption rates for 2000 from the 2015 counterpart for each county. Finally, I sorted the exemption rates based on descending values and reported the counties with the largest percentage increase in exemptions.
 
+<img width="468" alt="3_1" src="https://user-images.githubusercontent.com/87747630/129158213-b9736999-25d6-46d7-90a0-225e93b9b6fb.png">
+
 > The counties that exhibited the greatest increase in exemption rate in 2015 compared to 2000 were Nevada, Trinity, and Mariposa.
 
 4) For public schools, what percentage of kindergarteners completed their MMR, DTP, and Polio vaccinations in 2000 and 2015? For private schools? How do they compare?
 
 I created a [pivot table](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=1373690576) that for each school type (public and private), reported the sum of total kindergarteners and the total number of children with completed MMR, DTP, and Polio vaccinations in 2000 and 2015. 
 
+<img width="468" alt="4_1" src="https://user-images.githubusercontent.com/87747630/129158216-2b19d9ca-ad8e-45fe-b634-230e3ba96518.png">
+
 I copied the values to a [new spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=30241331) and determined the percentage of children who received each vaccination type from the total number of kindergarteners for each school type. 
+
+<img width="468" alt="4_2" src="https://user-images.githubusercontent.com/87747630/129158217-12c8eb3b-36d7-44fe-ba2b-dcc97621eb3b.png">
 
 > In 2000, private schools had vaccination rates of 92.252%, 93.331%, and 93.619% for the MMR, DTP, and Polio vaccines respectively. The same year, public schools had vaccination rates of 95.989%, 95.765%, and 96.451% for the MMR, DTP, and Polio vaccines respectively.
 
@@ -64,11 +79,19 @@ I copied the values to a [new spreadsheet](https://docs.google.com/spreadsheets/
 	
 I created a [pivot table](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=407531506) that reported the total number of kindergarteners and the total number of children who completed MMR, DTP, and Polio vaccinations in 2015 for each county. 
 
+<img width="468" alt="5_1" src="https://user-images.githubusercontent.com/87747630/129158219-17b91220-5fe7-4885-a3b6-194294631e38.png">
+
 I copied the values from this table and pasted them into a [new spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=944171930). I calculated the vaccination rates by determining the percentage of kindergarten children receiving each vaccination type from the total number of enrolled students in 2015. Finally, I sorted the vaccination rates for each vaccine type in ascending order to identify the counties with the lowest vaccination rates for MMR, DTP, and Polio independently.
+
+<img width="468" alt="5_2" src="https://user-images.githubusercontent.com/87747630/129158221-aa216275-4980-4281-b6ab-c98f6c95b820.png">
 
 >In 2015, Trinity, Nevada, and Tuolumne were the three counties with the lowest vaccination rates for MMR.
 
+<img width="468" alt="5_3" src="https://user-images.githubusercontent.com/87747630/129158224-89034c71-76a9-4a5e-b174-8182ea906394.png">
+
 >In 2015, Trinity, Nevada, and Mariposa were the three counties with the lowest vaccination rates for DTP.
+
+<img width="468" alt="5_4" src="https://user-images.githubusercontent.com/87747630/129158227-b02ccc95-d099-44e5-b7ce-ba6e927da2b8.png">
 
 >In 2015, Trinity, Nevada, and Tuolumne were the three counties with the lowest vaccination rates for MMR.
 
@@ -76,17 +99,27 @@ I copied the values from this table and pasted them into a [new spreadsheet](htt
 
 I created a [pivot table](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=228190039) that, for every county, displayed the standard deviation in percentage of kindergarteners receiving the MMR, DTP, and Polio vaccines in 2015. 
 
+<img width="468" alt="6_1" src="https://user-images.githubusercontent.com/87747630/129158229-3ef11d68-08b7-4dfa-9652-1fbae0b62d3c.png">
+
 I copied the values of this table into a [new spreadsheet](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=1069321620) and sorted the standard deviations in a descending fashion to determine the counties with the highest variation per vaccine type.
+
+<img width="314" alt="6_2" src="https://user-images.githubusercontent.com/87747630/129158234-d79fcb5d-8b83-446b-b72f-a6b67ea1d722.png">
 
 >In 2015, Lassen, Tuolumne, and Nevada counties had the greatest standard deviation in the percentage of reported kindergarteners who completed MMR vaccinations.
 
+<img width="329" alt="6_3" src="https://user-images.githubusercontent.com/87747630/129158235-2f898c47-b7f0-465f-8d80-0a6471ed84db.png">
+
 >In 2015, Lassen, Nevada, and Mariposa counties had the greatest standard deviation in the percentage of reported kindergarteners who completed DTP vaccinations.
+
+<img width="377" alt="6_4" src="https://user-images.githubusercontent.com/87747630/129158236-17e5d647-5fa3-49a6-873b-4c2746332840.png">
 
 >In 2015, Lassen, Nevada, and Mendocino counties had the greatest standard deviation in the percentage of reported kindergarteners who completed Polio vaccinations.
 
 7) Which vaccine demonstrated the greatest standard deviation in vaccination rate across the state in 2015?
 
 Using the spreadsheet in question 5 that detailed the vaccination rates for each vaccine type for each county in 2015, I calculated the [standard deviation](https://docs.google.com/spreadsheets/d/11xsReMhUc88-CZwxbBA9uzRk7Lcp6k9Zb3dHJlJGuZs/edit#gid=1591613893)across every county for each vaccine type. 
+
+<img width="468" alt="7_1" src="https://user-images.githubusercontent.com/87747630/129158237-b7af4d89-f617-4f5a-b689-9b6361166b2f.png">
 
 > The DTP vaccine demonstrated the greatest standard deviation across all counties in 2015.
 
